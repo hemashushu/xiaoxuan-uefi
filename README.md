@@ -1,1 +1,3 @@
-# xuan-adventure
+# XiaoXuan UEFI
+
+The bootloader for XiaoXuan OS. 
